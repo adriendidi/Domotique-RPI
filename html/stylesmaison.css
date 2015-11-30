@@ -1,0 +1,55 @@
+header
+{
+    text-align: center;
+    font-family: Arial Black, "Arial Black";
+    color: #FFFFFF;
+    Background-color: rgba(145,145,145, 0.8);
+    font-size: 45px;
+    line-height: 30px;
+    border-bottom: 5px solid #000001;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 60px;
+}
+
+body
+{
+
+    font-family: Time New Roman, "Times New Roman";
+    color: #000000;
+    background-image:url("maison_back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:fixed;  
+    
+}
+.container
+{
+    margin-left: 5%;
+    font-size: 25px;
+    color: #000001;
+}
+
+h3
+{
+    color: #FFFFFF;
+    text-decoration: underline;
+    margin-left: 10%;
+}
+
+button
+{
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    text-align: Center;
+    background-color: #336699;
+}
+
+footer
+{
+    font-size: 20px;
+    margin-left: 3%;
+    color: #FFFFFF;
+}
